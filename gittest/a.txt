@@ -1,7 +1,11 @@
 1.file
 
+<<<<<<< HEAD
 <<<<<<< f4be184a81644f9744525973c7eeb4fb8ace75cc
 master edit
 =======
 experiment
 >>>>>>> experiment commit
+=======
+experiment
+>>>>>>> 321fb0aa28fe384e735626cdfb14138e80bcf7be
